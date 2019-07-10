@@ -1,0 +1,2883 @@
+1:
+  categoryType: EXPENSE
+  depth: 1
+  id: 1
+  name: Entertainment
+  notificationName: Entertainment
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+2:
+  categoryType: EXPENSE
+  depth: 1
+  id: 2
+  name: Shopping
+  notificationName: Shopping
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+4:
+  categoryType: EXPENSE
+  depth: 1
+  id: 4
+  name: Personal Care
+  notificationName: Personal Care
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+5:
+  categoryType: EXPENSE
+  depth: 1
+  id: 5
+  name: Health & Fitness
+  notificationName: Health & Fitness
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+6:
+  categoryType: EXPENSE
+  depth: 1
+  id: 6
+  name: Kids
+  notificationName: Kids
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+7:
+  categoryType: EXPENSE
+  depth: 1
+  id: 7
+  name: Food & Dining
+  notificationName: Food & Dining
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+8:
+  categoryType: EXPENSE
+  depth: 1
+  id: 8
+  name: Gifts & Donations
+  notificationName: Gifts & Donations
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+9:
+  categoryType: EXPENSE
+  depth: 1
+  id: 9
+  name: Pets
+  notificationName: Pets
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+10:
+  categoryType: EXPENSE
+  depth: 1
+  id: 10
+  name: Education
+  notificationName: Education
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+11:
+  categoryType: EXPENSE
+  depth: 1
+  id: 11
+  name: Financial
+  notificationName: Financial
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+12:
+  categoryType: EXPENSE
+  depth: 1
+  id: 12
+  name: Home
+  notificationName: Home
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+13:
+  categoryType: EXPENSE
+  depth: 1
+  id: 13
+  name: Bills & Utilities
+  notificationName: Bills & Utilities
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+14:
+  categoryType: EXPENSE
+  depth: 1
+  id: 14
+  name: Auto & Transport
+  notificationName: Auto & Transport
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+15:
+  categoryType: EXPENSE
+  depth: 1
+  id: 15
+  name: Travel
+  notificationName: Travel
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+16:
+  categoryType: EXPENSE
+  depth: 1
+  id: 16
+  name: Fees & Charges
+  notificationName: Fees & Charges
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+17:
+  categoryType: EXPENSE
+  depth: 1
+  id: 17
+  name: Business Services
+  notificationName: Business Services
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+19:
+  categoryType: EXPENSE
+  depth: 1
+  id: 19
+  name: Taxes
+  notificationName: Taxes
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+20:
+  categoryType: EXPENSE
+  depth: 1
+  id: 20
+  name: Uncategorized
+  notificationName: Uncategorized
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+21:
+  categoryType: NO_CATEGORY
+  depth: 1
+  id: 21
+  name: Transfer
+  notificationName: Transfer
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+30:
+  categoryType: INCOME
+  depth: 1
+  id: 30
+  name: Income
+  notificationName: Income
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+40:
+  categoryType: NO_CATEGORY
+  depth: 1
+  id: 40
+  name: Hide from Budgets & Trends
+  notificationName: Hide from Budgets & Trends
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+50:
+  categoryType: NO_CATEGORY
+  depth: 1
+  id: 50
+  name: Investments
+  notificationName: Investments
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+60:
+  categoryType: NO_CATEGORY
+  depth: 1
+  id: 60
+  name: Loans
+  notificationName: Loans
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+70:
+  categoryType: EXPENSE
+  depth: 1
+  id: 70
+  name: Misc Expenses
+  notificationName: Misc Expenses
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 0
+    id: 0
+    name: Root
+    notificationName: Everything Else
+    parent: null
+    parentId: null
+    precedence: 100
+  parentId: 0
+  precedence: 30
+101:
+  categoryType: EXPENSE
+  depth: 2
+  id: 101
+  name: Arts
+  notificationName: Arts
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 1
+    name: Entertainment
+    notificationName: Entertainment
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 1
+  precedence: 20
+102:
+  categoryType: EXPENSE
+  depth: 2
+  id: 102
+  name: Amusement
+  notificationName: Amusement
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 1
+    name: Entertainment
+    notificationName: Entertainment
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 1
+  precedence: 20
+103:
+  categoryType: EXPENSE
+  depth: 2
+  id: 103
+  name: Music
+  notificationName: Music
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 1
+    name: Entertainment
+    notificationName: Entertainment
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 1
+  precedence: 20
+104:
+  categoryType: EXPENSE
+  depth: 2
+  id: 104
+  name: Movies & DVDs
+  notificationName: Movies & DVDs
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 1
+    name: Entertainment
+    notificationName: Entertainment
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 1
+  precedence: 20
+105:
+  categoryType: EXPENSE
+  depth: 2
+  id: 105
+  name: Newspapers & Magazines
+  notificationName: Newspapers & Magazines
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 1
+    name: Entertainment
+    notificationName: Entertainment
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 1
+  precedence: 20
+201:
+  categoryType: EXPENSE
+  depth: 2
+  id: 201
+  name: Clothing
+  notificationName: Clothing
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 2
+    name: Shopping
+    notificationName: Shopping
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 2
+  precedence: 20
+202:
+  categoryType: EXPENSE
+  depth: 2
+  id: 202
+  name: Books
+  notificationName: Books
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 2
+    name: Shopping
+    notificationName: Shopping
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 2
+  precedence: 20
+204:
+  categoryType: EXPENSE
+  depth: 2
+  id: 204
+  name: Electronics & Software
+  notificationName: Electronics & Software
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 2
+    name: Shopping
+    notificationName: Shopping
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 2
+  precedence: 20
+206:
+  categoryType: EXPENSE
+  depth: 2
+  id: 206
+  name: Hobbies
+  notificationName: Hobbies
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 2
+    name: Shopping
+    notificationName: Shopping
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 2
+  precedence: 20
+207:
+  categoryType: EXPENSE
+  depth: 2
+  id: 207
+  name: Sporting Goods
+  notificationName: Sporting Goods
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 2
+    name: Shopping
+    notificationName: Shopping
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 2
+  precedence: 20
+403:
+  categoryType: EXPENSE
+  depth: 2
+  id: 403
+  name: Hair
+  notificationName: Hair
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 4
+    name: Personal Care
+    notificationName: Personal Care
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 4
+  precedence: 20
+404:
+  categoryType: EXPENSE
+  depth: 2
+  id: 404
+  name: Spa & Massage
+  notificationName: Spa & Massage
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 4
+    name: Personal Care
+    notificationName: Personal Care
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 4
+  precedence: 20
+406:
+  categoryType: EXPENSE
+  depth: 2
+  id: 406
+  name: Laundry
+  notificationName: Laundry
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 4
+    name: Personal Care
+    notificationName: Personal Care
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 4
+  precedence: 20
+501:
+  categoryType: EXPENSE
+  depth: 2
+  id: 501
+  name: Dentist
+  notificationName: Dentist
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 5
+    name: Health & Fitness
+    notificationName: Health & Fitness
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 5
+  precedence: 20
+502:
+  categoryType: EXPENSE
+  depth: 2
+  id: 502
+  name: Doctor
+  notificationName: Doctor
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 5
+    name: Health & Fitness
+    notificationName: Health & Fitness
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 5
+  precedence: 20
+503:
+  categoryType: EXPENSE
+  depth: 2
+  id: 503
+  name: Eyecare
+  notificationName: Eyecare
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 5
+    name: Health & Fitness
+    notificationName: Health & Fitness
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 5
+  precedence: 20
+505:
+  categoryType: EXPENSE
+  depth: 2
+  id: 505
+  name: Pharmacy
+  notificationName: Pharmacy
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 5
+    name: Health & Fitness
+    notificationName: Health & Fitness
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 5
+  precedence: 20
+506:
+  categoryType: EXPENSE
+  depth: 2
+  id: 506
+  name: Health Insurance
+  notificationName: Health Insurance
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 5
+    name: Health & Fitness
+    notificationName: Health & Fitness
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 5
+  precedence: 20
+507:
+  categoryType: EXPENSE
+  depth: 2
+  id: 507
+  name: Gym
+  notificationName: Gym
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 5
+    name: Health & Fitness
+    notificationName: Health & Fitness
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 5
+  precedence: 20
+508:
+  categoryType: EXPENSE
+  depth: 2
+  id: 508
+  name: Sports
+  notificationName: Sports
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 5
+    name: Health & Fitness
+    notificationName: Health & Fitness
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 5
+  precedence: 20
+602:
+  categoryType: EXPENSE
+  depth: 2
+  id: 602
+  name: Babysitter & Daycare
+  notificationName: Babysitter & Daycare
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 6
+    name: Kids
+    notificationName: Kids
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 6
+  precedence: 20
+603:
+  categoryType: EXPENSE
+  depth: 2
+  id: 603
+  name: Child Support
+  notificationName: Child Support
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 6
+    name: Kids
+    notificationName: Kids
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 6
+  precedence: 20
+606:
+  categoryType: EXPENSE
+  depth: 2
+  id: 606
+  name: Toys
+  notificationName: Toys
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 6
+    name: Kids
+    notificationName: Kids
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 6
+  precedence: 20
+609:
+  categoryType: EXPENSE
+  depth: 2
+  id: 609
+  name: Kids Activities
+  notificationName: Kids Activities
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 6
+    name: Kids
+    notificationName: Kids
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 6
+  precedence: 20
+610:
+  categoryType: EXPENSE
+  depth: 2
+  id: 610
+  name: Allowance
+  notificationName: Allowance
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 6
+    name: Kids
+    notificationName: Kids
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 6
+  precedence: 20
+611:
+  categoryType: EXPENSE
+  depth: 2
+  id: 611
+  name: Baby Supplies
+  notificationName: Baby Supplies
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 6
+    name: Kids
+    notificationName: Kids
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 6
+  precedence: 20
+701:
+  categoryType: EXPENSE
+  depth: 2
+  id: 701
+  name: Groceries
+  notificationName: Groceries
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 7
+    name: Food & Dining
+    notificationName: Food & Dining
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 7
+  precedence: 20
+704:
+  categoryType: EXPENSE
+  depth: 2
+  id: 704
+  name: Coffee Shops
+  notificationName: Coffee Shops
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 7
+    name: Food & Dining
+    notificationName: Food & Dining
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 7
+  precedence: 20
+706:
+  categoryType: EXPENSE
+  depth: 2
+  id: 706
+  name: Fast Food
+  notificationName: Fast Food
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 7
+    name: Food & Dining
+    notificationName: Food & Dining
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 7
+  precedence: 20
+707:
+  categoryType: EXPENSE
+  depth: 2
+  id: 707
+  name: Restaurants
+  notificationName: Restaurants
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 7
+    name: Food & Dining
+    notificationName: Food & Dining
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 7
+  precedence: 20
+708:
+  categoryType: EXPENSE
+  depth: 2
+  id: 708
+  name: Alcohol & Bars
+  notificationName: Alcohol & Bars
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 7
+    name: Food & Dining
+    notificationName: Food & Dining
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 7
+  precedence: 20
+801:
+  categoryType: EXPENSE
+  depth: 2
+  id: 801
+  name: Gift
+  notificationName: Gift
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 8
+    name: Gifts & Donations
+    notificationName: Gifts & Donations
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 8
+  precedence: 20
+802:
+  categoryType: EXPENSE
+  depth: 2
+  id: 802
+  name: Charity
+  notificationName: Charity
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 8
+    name: Gifts & Donations
+    notificationName: Gifts & Donations
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 8
+  precedence: 20
+901:
+  categoryType: EXPENSE
+  depth: 2
+  id: 901
+  name: Pet Food & Supplies
+  notificationName: Pet Food & Supplies
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 9
+    name: Pets
+    notificationName: Pets
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 9
+  precedence: 20
+902:
+  categoryType: EXPENSE
+  depth: 2
+  id: 902
+  name: Pet Grooming
+  notificationName: Pet Grooming
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 9
+    name: Pets
+    notificationName: Pets
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 9
+  precedence: 20
+903:
+  categoryType: EXPENSE
+  depth: 2
+  id: 903
+  name: Veterinary
+  notificationName: Veterinary
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 9
+    name: Pets
+    notificationName: Pets
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 9
+  precedence: 20
+1001:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1001
+  name: Tuition
+  notificationName: Tuition
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 10
+    name: Education
+    notificationName: Education
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 10
+  precedence: 20
+1002:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1002
+  name: Student Loan
+  notificationName: Student Loan
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 10
+    name: Education
+    notificationName: Education
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 10
+  precedence: 20
+1003:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1003
+  name: Books & Supplies
+  notificationName: Books & Supplies
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 10
+    name: Education
+    notificationName: Education
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 10
+  precedence: 20
+1102:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1102
+  name: Life Insurance
+  notificationName: Life Insurance
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 11
+    name: Financial
+    notificationName: Financial
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 11
+  precedence: 20
+1105:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1105
+  name: Financial Advisor
+  notificationName: Financial Advisor
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 11
+    name: Financial
+    notificationName: Financial
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 11
+  precedence: 20
+1201:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1201
+  name: Furnishings
+  notificationName: Furnishings
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 12
+    name: Home
+    notificationName: Home
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 12
+  precedence: 20
+1202:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1202
+  name: Lawn & Garden
+  notificationName: Lawn & Garden
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 12
+    name: Home
+    notificationName: Home
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 12
+  precedence: 20
+1203:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1203
+  name: Home Improvement
+  notificationName: Home Improvement
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 12
+    name: Home
+    notificationName: Home
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 12
+  precedence: 20
+1204:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1204
+  name: Home Services
+  notificationName: Home Services
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 12
+    name: Home
+    notificationName: Home
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 12
+  precedence: 20
+1206:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1206
+  name: Home Insurance
+  notificationName: Home Insurance
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 12
+    name: Home
+    notificationName: Home
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 12
+  precedence: 20
+1207:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1207
+  name: Mortgage & Rent
+  notificationName: Mortgage & Rent
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 12
+    name: Home
+    notificationName: Home
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 12
+  precedence: 20
+1208:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1208
+  name: Home Supplies
+  notificationName: Home Supplies
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 12
+    name: Home
+    notificationName: Home
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 12
+  precedence: 20
+1301:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1301
+  name: Television
+  notificationName: Television
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 13
+    name: Bills & Utilities
+    notificationName: Bills & Utilities
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 13
+  precedence: 20
+1302:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1302
+  name: Home Phone
+  notificationName: Home Phone
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 13
+    name: Bills & Utilities
+    notificationName: Bills & Utilities
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 13
+  precedence: 20
+1303:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1303
+  name: Internet
+  notificationName: Internet
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 13
+    name: Bills & Utilities
+    notificationName: Bills & Utilities
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 13
+  precedence: 20
+1304:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1304
+  name: Mobile Phone
+  notificationName: Mobile Phone
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 13
+    name: Bills & Utilities
+    notificationName: Bills & Utilities
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 13
+  precedence: 20
+1306:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1306
+  name: Utilities
+  notificationName: Utilities
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 13
+    name: Bills & Utilities
+    notificationName: Bills & Utilities
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 13
+  precedence: 20
+1401:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1401
+  name: Gas & Fuel
+  notificationName: Gas & Fuel
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 14
+    name: Auto & Transport
+    notificationName: Auto & Transport
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 14
+  precedence: 20
+1402:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1402
+  name: Parking
+  notificationName: Parking
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 14
+    name: Auto & Transport
+    notificationName: Auto & Transport
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 14
+  precedence: 20
+1403:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1403
+  name: Service & Parts
+  notificationName: Service & Parts
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 14
+    name: Auto & Transport
+    notificationName: Auto & Transport
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 14
+  precedence: 20
+1404:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1404
+  name: Auto Payment
+  notificationName: Auto Payment
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 14
+    name: Auto & Transport
+    notificationName: Auto & Transport
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 14
+  precedence: 20
+1405:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1405
+  name: Auto Insurance
+  notificationName: Auto Insurance
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 14
+    name: Auto & Transport
+    notificationName: Auto & Transport
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 14
+  precedence: 20
+1406:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1406
+  name: Public Transportation
+  notificationName: Public Transportation
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 14
+    name: Auto & Transport
+    notificationName: Auto & Transport
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 14
+  precedence: 20
+1501:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1501
+  name: Air Travel
+  notificationName: Air Travel
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 15
+    name: Travel
+    notificationName: Travel
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 15
+  precedence: 20
+1502:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1502
+  name: Hotel
+  notificationName: Hotel
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 15
+    name: Travel
+    notificationName: Travel
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 15
+  precedence: 20
+1503:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1503
+  name: Rental Car & Taxi
+  notificationName: Rental Car & Taxi
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 15
+    name: Travel
+    notificationName: Travel
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 15
+  precedence: 20
+1504:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1504
+  name: Vacation
+  notificationName: Vacation
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 15
+    name: Travel
+    notificationName: Travel
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 15
+  precedence: 20
+1601:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1601
+  name: Service Fee
+  notificationName: Service Fee
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 16
+    name: Fees & Charges
+    notificationName: Fees & Charges
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 16
+  precedence: 20
+1602:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1602
+  name: Late Fee
+  notificationName: Late Fee
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 16
+    name: Fees & Charges
+    notificationName: Fees & Charges
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 16
+  precedence: 20
+1604:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1604
+  name: Finance Charge
+  notificationName: Finance Charge
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 16
+    name: Fees & Charges
+    notificationName: Fees & Charges
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 16
+  precedence: 20
+1605:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1605
+  name: ATM Fee
+  notificationName: ATM Fee
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 16
+    name: Fees & Charges
+    notificationName: Fees & Charges
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 16
+  precedence: 20
+1606:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1606
+  name: Bank Fee
+  notificationName: Bank Fee
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 16
+    name: Fees & Charges
+    notificationName: Fees & Charges
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 16
+  precedence: 20
+1607:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1607
+  name: Trade Commissions
+  notificationName: Trade Commissions
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 16
+    name: Fees & Charges
+    notificationName: Fees & Charges
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 16
+  precedence: 20
+1701:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1701
+  name: Advertising
+  notificationName: Advertising
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 17
+    name: Business Services
+    notificationName: Business Services
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 17
+  precedence: 20
+1702:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1702
+  name: Office Supplies
+  notificationName: Office Supplies
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 17
+    name: Business Services
+    notificationName: Business Services
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 17
+  precedence: 20
+1703:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1703
+  name: Printing
+  notificationName: Printing
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 17
+    name: Business Services
+    notificationName: Business Services
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 17
+  precedence: 20
+1704:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1704
+  name: Shipping
+  notificationName: Shipping
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 17
+    name: Business Services
+    notificationName: Business Services
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 17
+  precedence: 20
+1705:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1705
+  name: Legal
+  notificationName: Legal
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 17
+    name: Business Services
+    notificationName: Business Services
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 17
+  precedence: 20
+1901:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1901
+  name: Federal Tax
+  notificationName: Federal Tax
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 19
+    name: Taxes
+    notificationName: Taxes
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 19
+  precedence: 20
+1902:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1902
+  name: State Tax
+  notificationName: State Tax
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 19
+    name: Taxes
+    notificationName: Taxes
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 19
+  precedence: 20
+1903:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1903
+  name: Local Tax
+  notificationName: Local Tax
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 19
+    name: Taxes
+    notificationName: Taxes
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 19
+  precedence: 20
+1904:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1904
+  name: Sales Tax
+  notificationName: Sales Tax
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 19
+    name: Taxes
+    notificationName: Taxes
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 19
+  precedence: 20
+1905:
+  categoryType: EXPENSE
+  depth: 2
+  id: 1905
+  name: Property Tax
+  notificationName: Property Tax
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 19
+    name: Taxes
+    notificationName: Taxes
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 19
+  precedence: 20
+2001:
+  categoryType: EXPENSE
+  depth: 2
+  id: 2001
+  name: Cash & ATM
+  notificationName: Cash & ATM
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 20
+    name: Uncategorized
+    notificationName: Uncategorized
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 20
+  precedence: 20
+2002:
+  categoryType: EXPENSE
+  depth: 2
+  id: 2002
+  name: Check
+  notificationName: Check
+  parent:
+    categoryType: EXPENSE
+    depth: 1
+    id: 20
+    name: Uncategorized
+    notificationName: Uncategorized
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 20
+  precedence: 20
+2101:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 2101
+  name: Credit Card Payment
+  notificationName: Credit Card Payment
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 21
+    name: Transfer
+    notificationName: Transfer
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 21
+  precedence: 20
+2102:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 2102
+  name: Transfer for Cash Spending
+  notificationName: Transfer for Cash Spending
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 21
+    name: Transfer
+    notificationName: Transfer
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 21
+  precedence: 20
+3001:
+  categoryType: INCOME
+  depth: 2
+  id: 3001
+  name: Paycheck
+  notificationName: Paycheck
+  parent:
+    categoryType: INCOME
+    depth: 1
+    id: 30
+    name: Income
+    notificationName: Income
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 30
+  precedence: 20
+3003:
+  categoryType: INCOME
+  depth: 2
+  id: 3003
+  name: Returned Purchase
+  notificationName: Returned Purchase
+  parent:
+    categoryType: INCOME
+    depth: 1
+    id: 30
+    name: Income
+    notificationName: Income
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 30
+  precedence: 20
+3004:
+  categoryType: INCOME
+  depth: 2
+  id: 3004
+  name: Bonus
+  notificationName: Bonus
+  parent:
+    categoryType: INCOME
+    depth: 1
+    id: 30
+    name: Income
+    notificationName: Income
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 30
+  precedence: 20
+3005:
+  categoryType: INCOME
+  depth: 2
+  id: 3005
+  name: Interest Income
+  notificationName: Interest Income
+  parent:
+    categoryType: INCOME
+    depth: 1
+    id: 30
+    name: Income
+    notificationName: Income
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 30
+  precedence: 20
+3006:
+  categoryType: INCOME
+  depth: 2
+  id: 3006
+  name: Reimbursement
+  notificationName: Reimbursement
+  parent:
+    categoryType: INCOME
+    depth: 1
+    id: 30
+    name: Income
+    notificationName: Income
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 30
+  precedence: 20
+3007:
+  categoryType: INCOME
+  depth: 2
+  id: 3007
+  name: Rental Income
+  notificationName: Rental Income
+  parent:
+    categoryType: INCOME
+    depth: 1
+    id: 30
+    name: Income
+    notificationName: Income
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 30
+  precedence: 20
+5001:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 5001
+  name: Deposit
+  notificationName: Deposit
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 50
+    name: Investments
+    notificationName: Investments
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 50
+  precedence: 20
+5002:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 5002
+  name: Withdrawal
+  notificationName: Withdrawal
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 50
+    name: Investments
+    notificationName: Investments
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 50
+  precedence: 20
+5003:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 5003
+  name: Dividend & Cap Gains
+  notificationName: Dividend & Cap Gains
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 50
+    name: Investments
+    notificationName: Investments
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 50
+  precedence: 20
+5004:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 5004
+  name: Buy
+  notificationName: Buy
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 50
+    name: Investments
+    notificationName: Investments
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 50
+  precedence: 20
+5005:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 5005
+  name: Sell
+  notificationName: Sell
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 50
+    name: Investments
+    notificationName: Investments
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 50
+  precedence: 20
+6001:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 6001
+  name: Loan Payment
+  notificationName: Loan Payment
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 60
+    name: Loans
+    notificationName: Loans
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 60
+  precedence: 20
+6002:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 6002
+  name: Loan Insurance
+  notificationName: Loan Insurance
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 60
+    name: Loans
+    notificationName: Loans
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 60
+  precedence: 20
+6003:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 6003
+  name: Loan Principal
+  notificationName: Loan Principal
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 60
+    name: Loans
+    notificationName: Loans
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 60
+  precedence: 20
+6004:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 6004
+  name: Loan Interest
+  notificationName: Loan Interest
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 60
+    name: Loans
+    notificationName: Loans
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 60
+  precedence: 20
+6005:
+  categoryType: NO_CATEGORY
+  depth: 2
+  id: 6005
+  name: Loan Fees and Charges
+  notificationName: Loan Fees and Charges
+  parent:
+    categoryType: NO_CATEGORY
+    depth: 1
+    id: 60
+    name: Loans
+    notificationName: Loans
+    parent:
+      categoryType: NO_CATEGORY
+      depth: 0
+      id: 0
+      name: Root
+      notificationName: Everything Else
+      parent: null
+      parentId: null
+      precedence: 100
+    parentId: 0
+    precedence: 30
+  parentId: 60
+  precedence: 20
