@@ -1,13 +1,27 @@
 import yaml 
 import pandas as pd 
 import sys
+import argparse
+import os
 
 transaction_file_name = 'transaction-specification.csv'
 new_output_file_name = 'trans2.csv'
 yaml_data_file = 'data.yml'
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
+yaml_data_file_full_path = os.path.join(dir_path, yaml_data_file)
+
+
+parser = argparse.ArgumentParser(description='Mint parent category')
+parser.add_argument('transaction_file_name', help='input file name')
+parser.add_argument('output_file_name', help='output file name')
+
+args = parser.parse_args()
+transaction_file_name = args.transaction_file_name
+new_output_file_name = args.output_file_name
+
 # Open yaml data file and store data in a variable
-with open(yaml_data_file) as f:
+with open(yaml_data_file_full_path) as f:
         data = yaml.load(f, Loader=yaml.FullLoader)
 
 
