@@ -2,28 +2,41 @@ import yaml
 import pandas as pd 
 import sys
 
-level_1_name = []
-transa_csv = 'transaction-specification.csv'
+transaction_file_name = 'transaction-specification.csv'
+new_output_file_name = 'trans2.csv'
+yaml_data_file = 'data.yml'
 
-# level 2 category name to level1 category name form data.yml file
-def level2_to_level1(level_2_name):
-    with open('data.yml') as f:
+# Open yaml data file and store data in a variable
+with open(yaml_data_file) as f:
         data = yaml.load(f, Loader=yaml.FullLoader)
+
+
+def get_my_parent_category(category):
+    """
+    get parent category from chield
+    :param: category:child category name
+                type: <str> for category file, <float> for blank category
+    : retrun: parent category name or blank
+        type: str
+    """
+    if type(category) == str:
         for key, value in data.items():
-            if value["name"].lower() == level_2_name.lower():
-                p_name = value["parent"]["name"]
-                return p_name
-            
-# list of level2 category as category list of csv file
-f = pd.read_csv(transa_csv)
-categories = f['category']
-for category in categories:
-    print("Level2: ",category)
-    level1 = level2_to_level1(category)
-    print("level1 ", level1)
-    level_1_name.append(level1)
+            if key.lower() == category.lower():
+                # if category have no parent
+                if value == 'Root':
+                    return key
+                return value
+    else:
+        # if parent category is blank, return empty string
+        return ""
 
+# read transaction file
+df = pd.read_csv(transaction_file_name)
 
-# new column of level1 category
-f['Level 1'] = level_1_name
-f.to_csv('trans2.csv', index=False)
+# Get parent category for eatch row or category column
+# and store to new column 'parent_category'
+df['parent_category'] = df['category'].apply(get_my_parent_category)
+
+# save dataframe to new csv file
+df.to_csv(new_output_file_name, index=False)
+f.close()  # close yaml file
